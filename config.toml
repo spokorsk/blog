@@ -7,6 +7,10 @@ enableRobotsTXT = false
 disableKinds=["RSS"]
 publishdir = "../blog.github.io/"
 
+[permalinks]
+	page = "/:title/"
+	about = "/:filename/"
+
 [params]
   description = '<!--[-->Un site réalisé par  <a href="https://html5up.net">HTML5 UP</a> <!--]--><br />
                 <!--[-->Licence sous <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
