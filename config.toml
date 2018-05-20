@@ -18,6 +18,7 @@ publishdir = "../blog.github.io/"
   logoimage = "/images/logo.png"
   copyright = '<!--[-->Thême utilisé et réalisé  par<!--]-->'
   Powerby = '<!--[-->Fait sur<!--]-->'
+	email = "spokorski@protonmail.com"
 
 #[[params.social]]
 #  medium = "twitter"
