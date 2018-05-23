@@ -20,6 +20,11 @@ publishdir = "../blog.github.io/"
   Powerby = '<!--[-->Fait sur<!--]-->'
 	email = "spokorski@protonmail.com"
 
+	typeformid = "Njemx6" # Required
+	#typeformuser = "myuser" # Optional
+	#typeformwidth = "100%" # Optional
+	#typeformheight = "100px" # Optional
+
 #[[params.social]]
 #  medium = "twitter"
 #  icon = "twitter"
