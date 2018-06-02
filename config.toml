@@ -3,7 +3,7 @@ title = "Mon titre"
 theme = "dimension"
 languageCode = "fr-fr"
 defaultContentLanguage = "fr"
-enableRobotsTXT = false
+enableRobotsTXT = true
 disableKinds=["RSS"]
 publishdir = "../blog.github.io/"
 
@@ -49,6 +49,9 @@ publishdir = "../blog.github.io/"
 [languages.fr]
 languageName = "Français"
 weight = 1
+[[menu.main]]
+  name = "Articles"
+  url = "/articles/"
 
 [languages.en]
 languageName = "English"
