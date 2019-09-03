@@ -12,8 +12,7 @@ publishdir = "../blog.github.io/"
 	about = "/:filename/"
 
 [params]
-  description = '<!--[-->Un site réalisé par  <a href="https://html5up.net">HTML5 UP</a> <!--]--><br />
-                <!--[-->Licence sous <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
+  description = '<!--[-->Un site réalisé par  <a href="https://html5up.net">HTML5 UP</a> <!--]--><br /><!--[-->Licence sous <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
   #logo = "fa-diamond"
   logoimage = "/images/logo.png"
   copyright = '<!--[-->Thême utilisé et réalisé  par<!--]-->'
@@ -57,7 +56,6 @@ weight = 1
 languageName = "English"
 weight = 2
 title = "title"
-description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />
-              <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
+description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br /><!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
 Powerby = '<!--[-->Power by<!--]-->'
 copyright = '<!--[-->Used et Designed by<!--]-->'
