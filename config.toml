@@ -1,6 +1,6 @@
 baseurl = "https://spokorsk.github.io/"
 title = "Mon blog"
-theme = "dimension"
+theme = ["dimension", "hugo-theme-learn"]
 languageCode = "fr-fr"
 defaultContentLanguage = "fr"
 enableRobotsTXT = true
