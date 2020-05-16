@@ -1,5 +1,5 @@
 baseurl = "https://spokorsk.github.io/"
-title = "Mon blog2"
+title = "Mon Site"
 theme = ["dimension", "hugo-theme-learn"]
 languageCode = "fr-fr"
 defaultContentLanguage = "fr"
