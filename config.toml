@@ -55,7 +55,7 @@ weight = 1
 [languages.en]
 languageName = "English"
 weight = 2
-title = "title"
+title = "My website"
 description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br /><!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
 Powerby = '<!--[-->Power by<!--]-->'
 copyright = '<!--[-->Used et Designed by<!--]-->'
